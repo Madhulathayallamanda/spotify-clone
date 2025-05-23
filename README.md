@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
+As part of my coding journey, I crafted a sleek and interactive Spotify clone using HTML, CSS, and JavaScript. This project showcases my skill in building a visually appealing, responsive, and user-friendly web app that brings seamless music playback right to your browser.
 
 ## Tech-Stack-
 
@@ -19,7 +19,7 @@ As part of learning to code,I completed a project that involved creating a basic
 
 ## Usage-
 
-Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
+After opening the Spotify clone in your browser, click the play button beside a song to start playing it. You can control playback using the buttons at the bottom of the page. The "Now Playing" area shows the song and album cover that’s currently playing.
 
 ## Live-Demo-
 
